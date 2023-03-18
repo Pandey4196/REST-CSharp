@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DVUsupHnYa3NM7gi2ahlVNGAygxhQYx0HoYkrRzHo64=",
+  "Source": "SimpleREST-API",
+  "BasePath": "_content/SimpleREST-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
